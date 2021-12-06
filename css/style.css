@@ -1,0 +1,100 @@
+body{
+  text-align: center;
+  background-color: #00FFFF;
+}
+
+.name{
+  font-family: 'Gwendolyn', cursive;
+  font-size: 100px;
+  color: #FF7F50;
+}
+.sec{
+  font-family: 'Gwendolyn', cursive;
+  font-size: 55px;
+  color: #000000;
+}
+.img-cloud{
+  height: 15%;
+  width: 15%;
+margin-right:50%;
+}
+.img-sun{
+  height: 19%;
+  width: 20%;
+margin-left:60%;
+}
+.img-mou{
+  height: 50%;
+  width: 35%;
+margin-middle:75%;
+}
+
+.img-self{
+  height: 15%;
+    width: 15%;
+}
+
+.about{
+  font-family: 'Lobster',cursive;
+  font-size: 30px;
+  color: black;
+}
+
+.skill-row{
+  width: 80%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row img{
+  width: 30%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.skill-row h3{
+  font-size: 35px;
+}
+.skill-row p{
+  font-size: 25px;
+}
+.left{
+  float: left;
+}
+
+
+.abcd {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  font-size: 30px;
+}
+
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+footer{
+  margin-top: 60px;
+  background-color:#FF7F50;
+  padding: 50px 0 200px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+footer a{
+  text-decoration: none;
+  font-size: 30px;
+  color: 	#F0F8FF;
+  font-family: 'Nunito', sans-serif;
+  margin: 10px 20px;
+}
